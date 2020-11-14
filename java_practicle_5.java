@@ -1,4 +1,5 @@
-public class MultiTableFiftin {
+// java code for displaying Multiplication Table Of Fiftin
+public class java_practicle_5 {
     public static void main(String args[]){
         int i=1;
         int M;
