@@ -1,4 +1,4 @@
-public class Pract2a {
+public class java_practicle_2a {
     public static void main(String args[])
 {
     int sum=0;
