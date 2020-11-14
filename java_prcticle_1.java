@@ -1,5 +1,5 @@
 //Java program for addition of two numbers
-public class java_practicle1 {
+public class java_practicle_1 {
 
     
     public static void main (String args[]){
